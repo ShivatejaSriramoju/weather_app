@@ -6,7 +6,7 @@ Weather App
 
 A simple and user-friendly desktop application built using Python and Tkinter that displays real-time weather information for any city using the OpenWeatherMap API.
 
-Features
+•Features
 
 Enter any city name to get the current weather
 
@@ -19,11 +19,11 @@ Clean and responsive Tkinter GUI
 Proper error handling for invalid inputs or network issues
 
 
-Screenshots
 
 
 
-Requirements
+
+•Requirements
 
 Python 3.13.3
 
@@ -34,7 +34,7 @@ Pillow (PIL)
 tkinter (usually comes pre-installed with Python)
 
 
-Setup Instructions
+•Setup Instructions
 
 1. Clone this repository:
 
@@ -64,7 +64,7 @@ API_KEY = "your_actual_api_key_here"
 
 python weather_app.py
 
-File Structure
+•File Structure
 
 weather-app/
 │
@@ -72,7 +72,7 @@ weather-app/
 ├── README.md            # Project documentation
 └── screenshot.png       # (Optional) UI screenshot
 
-License
+•License
 
 This project is licensed under the MIT License.
 
